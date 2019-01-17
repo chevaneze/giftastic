@@ -1,0 +1,34 @@
+body {
+	background-color: #888;
+	color: #ffffff;
+	text-align: center;
+	padding-top: 55px;
+	padding-bottom: 15px;
+ 
+}
+ 
+label {
+	font-size: 18px;
+}
+
+#giff {
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#search {
+	margin: 0 auto;
+	text-align: center;
+}
+
+#gifArea {
+	clear: both;
+	display: inline;
+	flex-wrap: wrap;
+}
+
+.displayedImg {
+	padding: 2px;
+	width: 80%;
+}
